@@ -1,4 +1,3 @@
-
 # Lucky Time — Terms of Service
 
 **Effective date:** 2025-12-29  
@@ -7,7 +6,7 @@
 
 By downloading, installing, accessing, or using Lucky Time (the “App”), you agree to these Terms of Service (the “Terms”). If you do not agree, do not use the App.
 
-These Terms are in addition to any terms you agree to with the app store provider (for example, Google Play or Apple App Store). If there is a conflict about payments and refunds, the app store provider’s terms and policies control.
+These Terms are in addition to any terms you agree to with the app store provider (for example, Google Play or Apple App Store).
 
 ## 1. What Lucky Time is (and is not)
 
@@ -33,9 +32,8 @@ You agree not to:
 
 - reverse engineer, decompile, or attempt to derive source code from the App except where permitted by law,
 - interfere with the App (including probing, scanning, or testing vulnerabilities),
-- use the App to violate any law or infringe anyone’s rights,
-- misuse the App to harass, abuse, or harm others, or
-- circumvent paywalls, entitlement checks, or subscription validation.
+- use the App to violate any law or infringe anyone’s rights, or
+- misuse the App to harass, abuse, or harm others.
 
 ## 6. Intellectual property
 
@@ -96,6 +94,5 @@ Questions about these Terms:
 
 - Email: `aleksey.blekot@gmail.com`  
   Kyiv, Ukraine
-
 
 
